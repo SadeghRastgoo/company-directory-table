@@ -1,9 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="https://github.com/SadeghRastgoo/datalux"><img src="./public/vite.svg" alt="vite logo" width="125"></a>
-  <br>
-  Datalux
+  Company Directory Table
   <br>
 </h1>
 
